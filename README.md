@@ -6,10 +6,10 @@
 ### Here are some ideas about me
 - 🔭 I’m currently doing B.sc in Textile at [BGMEA University Of Fashion And Technology](https://buft.edu.bd/)
 - 🌱 I’m currently learning **node.js, express, mongodb**
-- 💻 Most used code ```console.log();```
 - 🎯 2021 Goals: **Getting Intern/Hired**
-- 👨‍💻 My Portfolio [https://ahamedashik.com/](https://ahamedashik.com/)
-- 😝 Fun fact **I Think I am funny**
+- 💻 Most used code ```console.log();```
+- 👨‍💻 My Portfolio: [https://ahamedashik.com/](https://ahamedashik.com/)
+- 😝 Fun fact: **I Think I am funny**
 
 
 
