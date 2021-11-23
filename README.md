@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm MD Ashik Ahamed</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="start">Hi 👋, I'm MD Ashik Ahamed</h1>
+<h3 align="start">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahamedashik01&label=Profile%20views&color=0e75b6&style=flat" alt="ahamedashik01" /> </p>
 
+
+### Here are some ideas about me
 - 🔭 I’m currently doing B.sc in Textile at [BGMEA University Of Fashion And Technology](https://buft.edu.bd/)
 - 🌱 I’m currently learning **node.js, express, mongodb**
 - 💻 Most used code ```console.log();```
 - 🎯 2021 Goals: **Getting Intern/Hired**
 - 👨‍💻 My Portfolio [https://ahamedashik.com/](https://ahamedashik.com/)
 - 😝 Fun fact **I Think I am funny**
+
 
 
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ahamedashik01.ahamedashik01)
@@ -27,7 +29,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahamedashik)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahamedashik01)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashikshamim.007@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Ashik Ahamed#8229)
 
 
 
