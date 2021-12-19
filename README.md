@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **node.js, express, mongodb**
 - 🎯 2021 Goals: **Getting Intern/Hired**
 - 💻 Most used code ```console.log();```
-- 👨‍💻 My Portfolio: [https://ahamedashik.com/](https://ahamedashik.com/)
+- 👨‍💻 My Portfolio: [https://personal-portfolio-30590.web.app/](https://personal-portfolio-30590.web.app/)
 - 😝 Fun fact: **I Think I am funny**
 
 
