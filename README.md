@@ -5,7 +5,7 @@
 
 ### Here are some ideas about me
 - 🔭 I’m currently doing B.sc in Textile at [BGMEA University Of Fashion And Technology](https://buft.edu.bd/)
-- 🌱 I’m currently learning **node.js, express, mongodb**
+- 🌱 I’m currently learning **next.js**
 - 🎯 2021 Goals: **Getting Intern/Hired**
 - 💻 Most used code ```console.log();```
 - 👨‍💻 My Portfolio: [https://personal-portfolio-30590.web.app/](https://personal-portfolio-30590.web.app/)
