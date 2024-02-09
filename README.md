@@ -4,9 +4,9 @@
 
 
 ### Here are some ideas about me
-- 🔭 I’m currently doing B.sc in Textile at [BGMEA University Of Fashion And Technology](https://buft.edu.bd/)
-- 🌱 I’m currently learning **next.js**
-- 🎯 2021 Goals: **Getting Intern/Hired**
+- 🔭 I’m currently studying Computer Application at [Häme University Of Applied Sciences, Finland](https://www.hamk.fi/en/)
+- 🌱 I’m currently learning **next.js typescript redux mongoose docker grapQL**
+- 🎯 2024 Goals: **Become a full-stack Ninja**
 - 💻 Most used code ```console.log();```
 - 👨‍💻 My Portfolio: [https://personal-portfolio-30590.web.app/](https://personal-portfolio-30590.web.app/)
 - 😝 Fun fact: **I Think I am funny**
